@@ -1,4 +1,4 @@
-with open('2input.txt','r') as f:
+with open('input.txt','r') as f:
   for ln in f:
     ln = ln.strip()
     
